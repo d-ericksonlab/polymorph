@@ -2,7 +2,7 @@
 
 Companion code for *"Raman-Grounded Multimodal Sensing of CaCO₃ Polymorphs
 during Microfluidic Biomineralization"* (Filanoski & Erickson, ACS Sensors,
-under review).
+in preporation).
 
 ## What's here
 
